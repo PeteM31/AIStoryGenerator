@@ -2,7 +2,7 @@
   "name": "generate-story",
   "version": "1.0.0",
   "description": "",
-  "main": "generateStory.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
